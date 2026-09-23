@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <!-- V shape -->
+  <path d="M25 25 L60 95 L75 60" stroke="#1B6B3A" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- Arrow stem from V -->
+  <path d="M75 60 L95 20" stroke="#1B6B3A" stroke-width="12" stroke-linecap="round" fill="none"/>
+  <!-- Gold arrow head -->
+  <polygon points="95,20 78,32 88,35" fill="#C5A55A"/>
+  <polygon points="95,20 85,10 88,35" fill="#B8963E"/>
+</svg>
